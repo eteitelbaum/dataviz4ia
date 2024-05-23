@@ -378,7 +378,7 @@
   </url>
   <url>
     <loc>https://dataviz-esia.training/index.html</loc>
-    <lastmod>2023-10-10T19:10:29.776Z</lastmod>
+    <lastmod>2023-10-10T19:10:29.000Z</lastmod>
   </url>
   <url>
     <loc>https://dataviz-esia.training/course-links.html</loc>
@@ -390,7 +390,7 @@
   </url>
   <url>
     <loc>https://dataviz-esia.training/modules/module-1.2.html</loc>
-    <lastmod>2023-10-10T20:11:27.011Z</lastmod>
+    <lastmod>2024-05-09T14:45:45.000Z</lastmod>
   </url>
   <url>
     <loc>https://dataviz-esia.training/slides/day-1.1.html</loc>
@@ -447,5 +447,9 @@
   <url>
     <loc>https://dataviz-esia.training/assignments/coding-assignment-1.html</loc>
     <lastmod>2023-06-03T19:34:55.000Z</lastmod>
+  </url>
+  <url>
+    <loc>https://dataviz-esia.training/exercises/exercise-1.2.html</loc>
+    <lastmod>2024-05-23T16:18:40.371Z</lastmod>
   </url>
 </urlset>
